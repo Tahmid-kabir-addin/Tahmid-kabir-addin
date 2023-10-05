@@ -1,15 +1,15 @@
 <h1 align="center">
-Hi, I'm Tahmid Kabir!
+	Hi, I'm Tahmid Kabir!
 	<a href="https://github.com/Tahmid-kabir-addin" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
 </h1>
 <p align="center">
 	<a href="https://github.com/Tahmid-kabir-addin">
-		<img src="https://komarev.com/ghpvc/?username=bouaskaoun&label=Profile%20views&color=0e75b6&style=flat" alt="tahmidkabir" />
+		<img src="https://komarev.com/ghpvc/?username=tahmid-kabir-addin&label=Profile%20views&color=0e75b6&style=flat" alt="tahmidkabir" />
 	</a>
 	<a href="https://github.com/Tahmid-kabir-addin">
-		<img src="https://img.shields.io/github/followers/bouaskaoun?label=Followers" alt="tahmidkabir" />
+		<img src="https://img.shields.io/github/followers/tahmid-kabir-addin?label=Followers" alt="tahmidkabir" />
 	</a>
 </p>
 <br/>
