@@ -15,7 +15,7 @@
 <br/>
 <p align="center">
 	<a href="https://github.com/Tahmid-kabir-addin">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Android Developer;Freelancer;DS%20|%20AI%20|%20ALGORITHM%20|%20CP%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
 
